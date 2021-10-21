@@ -5,3 +5,5 @@ terraform.tfstate
 .terraform.tfstate.lock.info
 id
 mysql/.terraform/*
+
+.terraform/providers/registry.terraform.io/hashicorp/azurerm/2.81.0/windows_amd64/terraform-provider-azurerm_v2.81.0_x5.exe
